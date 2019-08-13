@@ -1,0 +1,1 @@
+console.log('PRva linija koda u linuksu..')
